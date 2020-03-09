@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{14:function(e,n,t){"use strict";t.r(n);var o=t(0),r=t.n(o);n.default=function(e){e.footerText;return r.a.createElement("div",null,"footer")}}}]);
